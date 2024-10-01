@@ -1,48 +1,68 @@
-<h1 align="center">Hi there, I'm Trần Khánh Duy 👋</h1>
+<h1 align="center">Hi 👋, I'm Trần Khánh Duy</h1>
+<h3 align="center">A passionate Fullstack Web Developer</h3>
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer-Fullstack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-Bootstrap-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Laravel-Node.js-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-React-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Laravel-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-MySQL-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Bootstrap-yellow?style=for-the-badge" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 I'm currently a 6th-year student at FPT University, majoring in Backend Web Development.
-- 💻 I have experience working as a **Fullstack Web Developer** at GIA THANH REFRIGERATION JSC and previously as a Data Entry Clerk at BESSFU CO., LTD.
-- 🌱 I’m improving my skills with **WebSocket** in Laravel and working on **Redux** in React.
-- 💼 I’m passionate about creating efficient, user-friendly applications and enjoy **building booking systems** and **eCommerce platforms**.
-  
----
-
-### 🚀 What I'm Working On:
-- 🔨 Developing a **Hair Appointment Booking System** with advanced filtering, and time selection using **React** and **Node.js**.
-- ⚙️ Learning and implementing **WebSocket** for real-time communication in Laravel projects.
-- 🔍 Exploring the world of **web crawling** using **Node.js** for data aggregation.
+- 🎓 I am a 6th-year student at **FPT University**, majoring in Backend Web Development.
+- 💻 I have hands-on experience with **Fullstack** web development, particularly with **React** and **Laravel**.
+- 📚 I’m constantly learning new technologies, currently focused on improving my skills with **Redux** and **React ecosystem**.
+- 🛠️ I enjoy building intuitive user interfaces and optimizing backend APIs to enhance user experience.
 
 ---
 
-### 🤝 Looking to Collaborate:
-- 💻 Open to collaboration on **open-source projects** related to web development, APIs, and eCommerce platforms.
-- 🤔 Interested in working with developers passionate about **React**, **Laravel**, **Node.js**, and API design.
+### 🌟 Skills & Technologies:
+- **Frontend**: React, Redux, Bootstrap, HTML, CSS, JavaScript
+- **Backend**: Laravel, PHP, MySQL, RESTful APIs
+- **Tools**: Git, Visual Studio Code, Postman, NPM, Composer
 
 ---
 
-### 📫 How to Reach Me:
-- 📧 Email: [trankhanhduy.dev@gmail.com](mailto:trankhanhduy.dev@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/trankhanhduy](https://www.linkedin.com/in/trankhanhduy)
-  
+### 🛠️ What I'm Currently Working On:
+- **Booking System**: Developing a comprehensive hair appointment booking system with customizable time slots and filtering options.
+- **E-commerce Platform**: Creating dynamic, user-friendly shopping experiences with product filtering, cart functionality, and secure payments.
+
+---
+
+### 🌱 Currently Learning:
+- WebSocket integration in Laravel for real-time communication
+- Building efficient, scalable APIs and backend systems with advanced caching and queueing strategies
+
+---
+
+### 💼 Career Goal:
+I aim to become a **Senior Web Developer** in 2-3 years, focusing on **scalable web applications** and modern **backend architectures**.
+
+---
+
+### 🤝 Connect with Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/trankhanhduy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Tran%20Khanh%20Duy-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:trankhanhduy.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-trankhanhduy.dev@gmail.com-red?style=flat-square&logo=gmail" alt="Gmail"/>
+  </a>
+</p>
+
 ---
 
 ### ⚡ Fun Fact:
-- 🎤 I'm an extroverted communicator who enjoys organizing **talk shows** that bridge the gap between **academic knowledge** and **industry practices**. I love sharing insights about the differences between **learning in school** and working in **real-world web development**.
+I love organizing talk shows about the **differences between learning in school and working in the real world**. Sharing knowledge and connecting with industry experts is my way of bridging the gap between theory and practice.
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/devcontainerDuy?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/devcontainerDuy?style=social" alt="GitHub Stars" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devcontainerDuy&show_icons=true&theme=tokyonight&hide=stars,issues" alt="devcontainerDuy's GitHub stats" />
 </p>
 
 <!---
