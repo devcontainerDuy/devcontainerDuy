@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trần Khánh Duy</h1>
 <h3 align="center">A passionate Fullstack Web Developer</h3>
 
+
 ---
 
 <p align="center"> 
@@ -19,13 +20,15 @@
 - 💻 I have hands-on experience with **Fullstack** web development, particularly with **React** and **Laravel**.
 - 📚 I’m constantly learning new technologies, currently focused on improving my skills with **Redux** and **React ecosystem**.
 - 🛠️ I enjoy building intuitive user interfaces and optimizing backend APIs to enhance user experience.
+- 👨‍🔧 I'm skilled in React, Laravel, and building RESTful APIs.
+- 🏢 Currently working as a Junior Web Developer at GIA THANH REFRIGERATION JSC.
 
 ---
 
 ### 🌟 Skills & Technologies:
 - **Frontend**: React, Redux, Bootstrap, HTML, CSS, JavaScript
 - **Backend**: Laravel, PHP, MySQL, RESTful APIs
-- **Tools**: Git, Visual Studio Code, Postman, NPM, Composer
+- **Tools**: Git, Visual Studio Code, Postman, NPM, Composer, NPM
 
 ---
 
