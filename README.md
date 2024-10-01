@@ -3,11 +3,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-React-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Laravel-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-MySQL-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-Bootstrap-yellow?style=for-the-badge" />
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React" /> 
+  <img src="https://img.shields.io/badge/Framework-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> 
+  <img src="https://img.shields.io/badge/Frontend-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> 
+  <img src="https://img.shields.io/badge/Version%20Control-Git-orange?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
+  <img src="https://img.shields.io/badge/Tools-VS%20Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> 
 </p>
 
 ---
