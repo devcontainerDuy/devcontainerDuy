@@ -51,7 +51,7 @@ I aim to become a **Senior Web Developer** in 2-3 years, focusing on **scalable 
   <a href="https://www.linkedin.com/in/trankhanhduy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Tran%20Khanh%20Duy-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:trankhanhduy.dev@gmail.com">
+  <a href="mailto:trankhanhduy463@gmail.com">
     <img src="https://img.shields.io/badge/Email-trankhanhduy.dev@gmail.com-red?style=flat-square&logo=gmail" alt="Gmail"/>
   </a>
 </p>
