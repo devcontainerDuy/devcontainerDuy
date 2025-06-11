@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 I'm a final-year student at **FPT Polytechnic College**, majoring in Web Programming (GPA: 3.16/4.0).
+- 🎓 I'm a bachelor's degree holder at **FPT Polytechnic College**, majoring in Web Programming (GPA: 3.16/4.0).
 - 💼 Currently an intern Fullstack Developer at **GIA THANH REFRIGERATION JSC**.
 - 💻 I specialize in developing fullstack applications using **Laravel**, **React**, **MySQL**, and **TailwindCSS**.
 - 🛠️ Experienced in building APIs, creating reusable components, and deploying web apps.
