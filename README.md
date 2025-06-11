@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me:
 - 🎓 I'm a bachelor's degree holder at **FPT Polytechnic College**, majoring in Web Programming (GPA: 3.16/4.0).
-- 💼 Currently an intern Fullstack Developer at **GIA THANH REFRIGERATION JSC**.
+- 💼 Currently a **1 year** of experience as a **Fullstack Developer**.
 - 💻 I specialize in developing fullstack applications using **Laravel**, **React**, **MySQL**, and **TailwindCSS**.
 - 🛠️ Experienced in building APIs, creating reusable components, and deploying web apps.
 - 📦 I’ve published a Laravel package for managing Vietnamese administrative data: [danhmuchanhchinhvn-maps](https://github.com/devcontainerDuy/danhmuchanhchinhvn-maps).
