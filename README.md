@@ -63,7 +63,7 @@ I aim to become a **Senior Web Developer** in the next few years, specializing i
 
 ### 🤝 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/trankhanhduy" target="_blank">
+  <a href="[https://www.linkedin.com/in/trankhanhduy](https://www.linkedin.com/in/kh%C3%A1nh-duy-tr%E1%BA%A7n-632551324/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Tran%20Khanh%20Duy-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:trankhanhduy463@gmail.com">
@@ -79,5 +79,11 @@ I hosted the **Bee Learning Talkshow** to help students understand the differenc
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devcontainerDuy&show_icons=true&theme=tokyonight&hide=stars,issues" alt="devcontainerDuy's GitHub stats" />
+  <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=devcontainerDuy&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="devcontainerDuy's GitHub Rank" />
+</p>
+<p align="center">
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=devcontainerDuy&show_icons=true&theme=tokyonight&hide=stars,issues" alt="devcontainerDuy's GitHub stats" />
+</p>
+<p align="center">
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcontainerDuy&locale=en&layout=donut&theme=tokyonight" alt="devcontainerDuy's GitHub Top Langs" />
 </p>
